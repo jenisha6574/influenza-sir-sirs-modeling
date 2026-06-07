@@ -34,12 +34,10 @@ Develop mathematical models of influenza outbreaks using systems of ordinary dif
 ## Tools Used
 
 * R
-* deSolve
 * ggplot2
 * Mathematical Modeling
 * Differential Equations
 
 ## Author
+Jenisha Shrestha
 
-Sajan Malla
-University of Colorado Boulder
